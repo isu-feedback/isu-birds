@@ -1,0 +1,103 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 1122
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 3
+	Country: United States ; Times: 39
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 3
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-07 ; Times: 2
+	Date: 2015-06-08 ; Times: 6
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-16 ; Times: 1
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-19 ; Times: 6
+	Date: 2015-06-23 ; Times: 1
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "mammal Normal Illinois" ; Times: 1
+	Query: "Numida meleagris meleagris" ; Times: 1
+	Query: "numida meleagris" ; Times: 1
+	Query: "zonotrichia leucophrys leucophrys type:specimen tissue:1" ; Times: 1
+	Query: "numida year >= 1960 year <= 1989" ; Times: 1
+	Query: "numida" ; Times: 1
+	Query: "institutioncode:isu" ; Times: 1
+	Query: "county:"Macon" stateprovince:"Illinois" year <= 2015" ; Times: 1
+	Query: "numida AND (captive) year >= 1960 year <= 1989" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga tissue:1" ; Times: 1
+	Query: "setophaga ruticilla tissue:1" ; Times: 11
+	Query: "bird Woodford Illinois" ; Times: 3
+	Query: "melospiza georgiana tissue:1" ; Times: 1
+	Query: "mammal Mclean Illinois" ; Times: 1
+	Query: "mammal Woodford Illinois" ; Times: 4
+	Query: "aves Mclean county Illinois" ; Times: 1
+	Query: "aves Woodford Illinois" ; Times: 1
+	Query: "Empidonax trailii year >= 1900 year <= 2015 mappable:1" ; Times: 1
+	Query: "aythya nyroca" ; Times: 2
+	Query: "institutioncode:isu Psittacidae" ; Times: 2
+	Query: "numida year >= 1970 year <= 1979" ; Times: 1
+	Query: "aythya fuligula" ; Times: 1
+	Query: "mammal Mclean county Illinois" ; Times: 2
+	Query: "francolinus adspersus" ; Times: 1
+	Query: "mammal Woodford county Illinois" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1524 download events in this period)
+Total number of records downloaded: 3318 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3253
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 2
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-05 ; Times: 3
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "setophaga ruticilla tissue:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 152
+Total number of records retrieved from searches: 5306
+Number of download events that retrieved data from the resource: 51
+Total number of records downloaded: 4452
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 157
+Total number of records retrieved from searches: 5410
+Number of download events that retrieved data from the resource: 138
+Total number of records downloaded: 17103
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

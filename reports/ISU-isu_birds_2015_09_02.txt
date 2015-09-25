@@ -1,0 +1,94 @@
+Report for Institution Code ISU, Resource Birds
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 31
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-05 ; Times: 1
+	Date: 2015-08-08 ; Times: 1
+	Date: 2015-08-11 ; Times: 2
+	Date: 2015-08-13 ; Times: 2
+	Date: 2015-08-15 ; Times: 2
+	Date: 2015-08-22 ; Times: 2
+	Date: 2015-08-25 ; Times: 2
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"Milwaukee" stateprovince:"wisconsin"" ; Times: 1
+	Query: "pelecanus (skel OR skeleton)" ; Times: 1
+	Query: "Padda oryzivora" ; Times: 1
+	Query: "ammodramus year >= 1870 year <= 1875" ; Times: 1
+	Query: "pavo muticus" ; Times: 2
+	Query: "coturnix coturnix" ; Times: 2
+	Query: "Oriolidae (skel OR skeleton)" ; Times: 1
+	Query: "Oriolus (skel OR skeleton)" ; Times: 1
+	Query: "catalognumber:122" ; Times: 2
+	Query: "Psittacidae pertinax" ; Times: 2
+	Query: "Glareolidae (skel OR skeleton)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1138 download events in this period)
+Total number of records downloaded: 275 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 184
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-10 ; Times: 2
+	Date: 2015-08-16 ; Times: 2
+	Date: 2015-08-17 ; Times: 9
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-27 ; Times: 2
+	Date: 2015-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: ""melospiza melodia" tissue:1" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "Ectopistes migratorius type:specimen" ; Times: 1
+	Query: "Polioptila caerulea" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "rallus limicola" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "contopus genus:contopus (tissue)" ; Times: 2
+	Query: "Troglodytidae" ; Times: 1
+	Query: "Cracidae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 15
+Total number of records retrieved from searches: 31
+Number of download events that retrieved data from the resource: 19
+Total number of records downloaded: 275
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 15
+Total number of records retrieved from searches: 31
+Number of download events that retrieved data from the resource: 19
+Total number of records downloaded: 275
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

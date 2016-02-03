@@ -1,0 +1,85 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 129
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Japan ; Times: 2
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-26 ; Times: 2
+	Date: 2015-11-12 ; Times: 3
+	Date: 2015-11-06 ; Times: 1
+	Date: 2015-11-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "merops nubicoides" ; Times: 1
+	Query: "pavo muticus" ; Times: 2
+	Query: "genus:Clangula preparations:skel" ; Times: 1
+	Query: "genus:Anser preparations:skel" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (ophthalmica)" ; Times: 1
+	Query: "institutioncode:ISU" ; Times: 1
+	Query: "specificepithet:aurocapillus genus:Seiurus month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Aimophila aestivalis institutioncode:ISU" ; Times: 1
+	Query: "plegadis falcinellus year &lt;= 1900" ; Times: 1
+	Query: "empidonax flaviventris type:specimen tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 751 download events in this period)
+Total number of records downloaded: 3516
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Japan ; Times: 2
+	Country: Sweden ; Times: 5
+	Country: United States ; Times: 10
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-12 ; Times: 2
+	Date: 2015-11-02 ; Times: 2
+	Date: 2015-11-23 ; Times: 2
+	Date: 2015-11-09 ; Times: 3
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-30 ; Times: 2
+	Date: 2015-11-24 ; Times: 1
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-26 ; Times: 2
+	Date: 2015-11-27 ; Times: 1
+	Date: 2015-11-06 ; Times: 1
+	Date: 2015-11-04 ; Times: 1
+	Date: 2015-11-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "puffinus" ; Times: 1
+	Query: "merops nubicoides" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "genus:Clangula preparations:skel" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 1
+	Query: "genus:Anas preparations:skel" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Chlorophanes spiza mappable:1" ; Times: 1
+	Query: "ploceus" ; Times: 2
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+	Query: "halcyon leucocephala" ; Times: 1
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1986" ; Times: 1
+	Query: "clamator glandarius" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1977" ; Times: 1
+	Query: "institutioncode:ISU" ; Times: 1
+
+
+End of report.

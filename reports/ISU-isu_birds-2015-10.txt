@@ -1,0 +1,75 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 17
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-09 ; Times: 4
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sturnella magna type:specimen tissue:1" ; Times: 1
+	Query: "sialia sialis type:specimen tissue:1" ; Times: 1
+	Query: "Numida meleagris year &gt;= 1920" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "chaetura (skel OR skeleton)" ; Times: 1
+	Query: "Anas erythrorhyncha" ; Times: 1
+	Query: "francolinus francolinus" ; Times: 1
+	Query: "Cardinalis cardinalis type:specimen tissue:1" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:&#34;Oregon&#34; year &gt;= 1960" ; Times: 1
+	Query: "francolinus levaillantoides" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 823 download events in this period)
+Total number of records downloaded: 192
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Venezuela ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-14 ; Times: 2
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cardinalis cardinalis type:specimen tissue:1" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "vireo olivaceus type:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "Junco tissue:1" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;Washington&#34; year &gt;= 1960" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:&#34;Oregon&#34; year &gt;= 1960" ; Times: 1
+
+
+End of report.

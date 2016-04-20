@@ -1,0 +1,52 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 2
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ectopistes migratorius" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 230 download events in this period)
+Total number of records downloaded: 39808
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-10 ; Times: 6
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 9
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-12 ; Times: 2
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "chordeiles minor mappable:1" ; Times: 1
+
+
+End of report.

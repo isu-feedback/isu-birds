@@ -1,0 +1,97 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 50
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Denmark ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-20 ; Times: 7
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1975 mappable:1" ; Times: 2
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "urocolius indicus" ; Times: 1
+	Query: "151 ONTARIO 1" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica tissue:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2005 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1975 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1965 mappable:1" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2005 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "specificepithet:castanea genus:Dendroica tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1312 download events in this period)
+Total number of records downloaded: 215
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-21 ; Times: 19
+	Date: 2016-04-20 ; Times: 18
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 4 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 6 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 6 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "type:specimen specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1985 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 3 mappable:1" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1995 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 5 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1975 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 1995 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1965 year &lt;= 1970 mappable:1" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1985 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1970 mappable:1" ; Times: 1
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1965 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 4 mappable:1" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica tissue:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1975 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5 mappable:1" ; Times: 2
+	Query: "specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2005 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 7 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.

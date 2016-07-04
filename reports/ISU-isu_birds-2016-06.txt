@@ -1,0 +1,74 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 93
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: United Kingdom ; Times: 1
+	Country: Portugal ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-23 ; Times: 7
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-14 ; Times: 6
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "setophaga magnolia month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Dendroica magnolia month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Streptopelia risoria 1" ; Times: 2
+	Query: "Sporopipes squamifrons" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 3
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "dendroica magnolia month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "setophaga ruticilla type:specimen tissue:1" ; Times: 2
+	Query: "francolinus adspersus" ; Times: 2
+	Query: "dendroica magnolia tissue:1" ; Times: 1
+	Query: "setophaga ruticilla tissue:1" ; Times: 2
+	Query: "dendroica magnolia type:specimen year &gt;= 1930 year &lt;= 2016 institutioncode:ISU" ; Times: 1
+	Query: "dendroica magnolia month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "setophaga magnolia month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1052 download events in this period)
+Total number of records downloaded: 33
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 2
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "melanerpes carolinus tissue:1" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+
+
+End of report.

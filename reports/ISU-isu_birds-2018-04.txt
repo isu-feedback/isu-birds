@@ -1,0 +1,74 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 15
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-08 ; Times: 4
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-30 ; Times: 4
+	Date: 2018-04-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:gilvus genus:Vireo institutioncode:ISU basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus hastissue:1" ; Times: 2
+	Query: "genus:Tachycineta bicolor stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis continent:North America year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "vntype:specimen genus:Tachycineta bicolor stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:canagica genus:Chen" ; Times: 1
+	Query: "genus:Aegolius year &gt;= 1976 year &lt;= 1976" ; Times: 1
+	Query: "genus:tachycineta bicolor stateprovince:&#34;illinois&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1359 download events in this period)
+Total number of records downloaded: 52
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 10
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-05 ; Times: 3
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-08 ; Times: 2
+	Date: 2018-04-15 ; Times: 4
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "distance(location,geopoint(46.21111,-89.47825))&lt;50000" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "distance(location,geopoint(46.23388,-89.53725))&lt;50000" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis continent:North America year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:gramineus genus:Pooecetes hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "distance(location,geopoint(45.998269,-89.704767))&lt;50000" ; Times: 1
+	Query: "specificepithet:caerulea genus:Guiraca class:Aves" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "Protonotaria citrea" ; Times: 2
+	Query: "distance(location,geopoint(33.40123,-97.57))&lt;50000" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+
+
+End of report.

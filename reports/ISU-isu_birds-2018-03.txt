@@ -1,0 +1,87 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 190
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 3
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-05 ; Times: 2
+	Date: 2018-03-28 ; Times: 8
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-26 ; Times: 14
+	Date: 2018-03-27 ; Times: 10
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-20 ; Times: 3
+	Date: 2018-03-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:podiceps genus:Podilymbus hastissue:1" ; Times: 1
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 2
+	Query: "genus:Aythya specificepithet:fuligula" ; Times: 5
+	Query: "specificepithet:erythrophthalmus genus:Pipilo stateprovince:&#34;Illinois&#34; month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "genus:Alectoris specificepithet:rufa" ; Times: 5
+	Query: "genus:Merops specificepithet:pusillus" ; Times: 2
+	Query: "genus:Eumomota specificepithet:superciliosa" ; Times: 6
+	Query: "genus:Chen specificepithet:caerulescens" ; Times: 2
+	Query: "genus:Phasianus specificepithet:colchicus" ; Times: 2
+	Query: "genus:Geococcyx specificepithet:californianus" ; Times: 2
+	Query: "institutioncode:ISU" ; Times: 1
+	Query: "county:&#34;Lasalle&#34; stateprovince:&#34;illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Aix specificepithet:sponsa" ; Times: 2
+	Query: "treron curvirostra" ; Times: 1
+	Query: "genus:Columba specificepithet:livia" ; Times: 2
+	Query: "Eumomota superciliosa" ; Times: 1
+	Query: "catalognumber:3096 institutioncode:ISU" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 6
+	Query: "genus:Anas specificepithet:discors" ; Times: 3
+	Query: "genus:Alcedo specificepithet:atthis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1284 download events in this period)
+Total number of records downloaded: 33
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-17 ; Times: 2
+	Date: 2018-03-02 ; Times: 3
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-27 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "conuropsis" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "family:Corvidae hastissue:1" ; Times: 1
+	Query: "preparations:nest" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Eumomota superciliosa" ; Times: 1
+
+
+End of report.

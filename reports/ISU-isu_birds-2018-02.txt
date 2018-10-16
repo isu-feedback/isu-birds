@@ -1,0 +1,139 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 123
+Number of records retrieved in searches: 402
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Canada ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 71
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 3
+	Date: 2018-02-20 ; Times: 40
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-27 ; Times: 32
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-07 ; Times: 10
+	Date: 2018-02-06 ; Times: 28
+	Date: 2018-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aix sponsa mappable:1" ; Times: 1
+	Query: "Vanellus armatus mappable:1" ; Times: 4
+	Query: "ISU" ; Times: 1
+	Query: "Anas luzonica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chrysolophus amherstiae mappable:1" ; Times: 4
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "Anas erythrorhyncha mappable:1" ; Times: 4
+	Query: "Paroaria coronata mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(39.8529967495001,-91.180029912))&lt;61801" ; Times: 4
+	Query: "Aythya valisineria mappable:1" ; Times: 2
+	Query: "Buteo regalis mappable:1" ; Times: 2
+	Query: "Aythya fuligula basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(41.0855763420001,-91.035244512))&lt;10305" ; Times: 5
+	Query: "Francolinus francolinus mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 4
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 2
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "genus:Anser preparations:Skel" ; Times: 1
+	Query: "Numida meleagris mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(41.5636378550001,-93.2740433419999))&lt;5425" ; Times: 4
+	Query: "Cairina moschata mappable:1" ; Times: 4
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Aratinga pertinax mappable:1" ; Times: 3
+	Query: "vntype:specimen genus:Meleagris lifestage:Adult sex:Male basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(42.108422682857,-83.1761773494459))&lt;2182" ; Times: 4
+	Query: "Lamprotornis superbus mappable:1" ; Times: 4
+	Query: "Balearica pavonina mappable:1" ; Times: 4
+	Query: "Actophilornis africanus mappable:1" ; Times: 5
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "Padda oryzivora mappable:1" ; Times: 3
+	Query: "Eudocimus albus mappable:1" ; Times: 2
+	Query: "specificepithet:lagopus genus:Lagopus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pycnonotus jocosus mappable:1" ; Times: 4
+	Query: "Lophotis ruficrista" ; Times: 2
+	Query: "Coturnix japonica mappable:1" ; Times: 4
+	Query: "Aix galericulata mappable:1" ; Times: 4
+	Query: "specificepithet:japonica genus:Coturnix" ; Times: 1
+	Query: "Anas cyanoptera mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(41.877340882143,-90.2280541665))&lt;24154" ; Times: 4
+	Query: "genus:Cyanocitta lifestage:Adult preparations:Skel" ; Times: 1
+	Query: "Elanoides forficatus mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(39.0370135555,-90.5226324925))&lt;19964" ; Times: 4
+	Query: "distance(location,geopoint(42.0647316641425,-83.1883640004999))&lt;5490" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1892 download events in this period)
+Total number of records downloaded: 355
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Israel ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-20 ; Times: 7
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-26 ; Times: 3
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-08 ; Times: 3
+	Date: 2018-02-02 ; Times: 8
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-05 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mexicanus genus:Carpodacus continent:North America" ; Times: 1
+	Query: "specificepithet:cassinii genus:Carpodacus" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 4
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma continent:North America" ; Times: 2
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 1
+	Query: "specificepithet:pica genus:Pica continent:North America" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:melodia class:aves" ; Times: 1
+	Query: "specificepithet:purpureus genus:Carpodacus" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "specificepithet:japonica genus:Coturnix" ; Times: 1
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris sex:Male basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.

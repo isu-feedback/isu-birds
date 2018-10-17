@@ -1,0 +1,97 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 73
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 28
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-24 ; Times: 27
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chaetura pelagica mappable:1" ; Times: 1
+	Query: "Dendrocygna viduata" ; Times: 2
+	Query: "Buteo platypterus mappable:1" ; Times: 1
+	Query: "Haematopus palliatus mappable:1" ; Times: 1
+	Query: "Conuropsis carolinensis vntype:specimen" ; Times: 1
+	Query: "Coccyzus erythropthalmus mappable:1" ; Times: 1
+	Query: "Spheniscus humboldti mappable:1" ; Times: 1
+	Query: "Setophaga fusca mappable:1" ; Times: 1
+	Query: "Oporornis agilis mappable:1" ; Times: 1
+	Query: "aves 7892" ; Times: 1
+	Query: "Mycteria americana mappable:1" ; Times: 1
+	Query: "Cyanerpes cyaneus mappable:1" ; Times: 1
+	Query: "Bartramia longicauda mappable:1" ; Times: 1
+	Query: "genus:eurocephalus" ; Times: 1
+	Query: "Aix sponsa 100" ; Times: 1
+	Query: "Columba livia mappable:1" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "Dendrocygna viduata mappable:1" ; Times: 1
+	Query: "Limosa fedoa mappable:1" ; Times: 1
+	Query: "Numenius phaeopus mappable:1" ; Times: 1
+	Query: "Cairina moschata mappable:1" ; Times: 1
+	Query: "Jabiru mycteria mappable:1" ; Times: 1
+	Query: "Eudocimus albus mappable:1" ; Times: 1
+	Query: "Parkesia noveboracensis mappable:1" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 2
+	Query: "Poicephalus" ; Times: 1
+	Query: "Nyctanassa violacea mappable:1" ; Times: 1
+	Query: "eurocephalus" ; Times: 1
+	Query: "Tringa solitaria mappable:1" ; Times: 1
+	Query: "Elanoides forficatus mappable:1" ; Times: 1
+	Query: "Chlorophanes spiza mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 977 download events in this period)
+Total number of records downloaded: 118
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 7
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-17 ; Times: 4
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-06 ; Times: 3
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "genus:eurocephalus" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "Aimophila aestivalis" ; Times: 1
+	Query: "Catharus ustulatus" ; Times: 1
+	Query: "Conuropsis carolinensis vntype:specimen" ; Times: 1
+	Query: "Poecile gambeli" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "specificepithet:bilineata genus:Amphispiza" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+	Query: "Carduelis pinus" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+
+
+End of report.

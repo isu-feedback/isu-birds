@@ -1,0 +1,72 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 52
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Belgium ; Times: 2
+	Country: Chile ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-18 ; Times: 4
+	Date: 2019-06-16 ; Times: 2
+	Date: 2019-06-11 ; Times: 14
+	Date: 2019-06-10 ; Times: 6
+	Date: 2019-06-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pluvialis dominica mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Nyctanassa specificepithet:violacea" ; Times: 1
+	Query: "genus:Aethia specificepithet:pusilla" ; Times: 1
+	Query: "Oxyura jamaicensis mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Gallinago specificepithet:delicata" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica" ; Times: 1
+	Query: "genus:Anhinga specificepithet:anhinga" ; Times: 1
+	Query: "class:Aves catalognumber:2496 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "genus:Poicephalus specificepithet:meyeri" ; Times: 1
+	Query: "genus:Anas specificepithet:luzonica" ; Times: 1
+	Query: "genus:Anas specificepithet:discors" ; Times: 1
+	Query: "Spheniscus humboldti mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Cygnus specificepithet:buccinator" ; Times: 1
+	Query: "genus:Merops specificepithet:pusillus" ; Times: 1
+	Query: "genus:Alectoris specificepithet:rufa" ; Times: 1
+	Query: "genus:Halcyon specificepithet:leucocephala" ; Times: 1
+	Query: "genus:Eumomota specificepithet:superciliosa" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 2
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 1
+	Query: "genus:Aythya specificepithet:fuligula" ; Times: 1
+	Query: "genus:Spheniscus specificepithet:humboldti" ; Times: 1
+	Query: "catalognumber:2342" ; Times: 1
+	Query: "genus:Protonotaria specificepithet:citrea" ; Times: 1
+	Query: "Pluvialis squatarola mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Chen specificepithet:caerulescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1182 download events in this period)
+Total number of records downloaded: 148
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-11 ; Times: 1
+	Date: 2019-06-03 ; Times: 6
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cathartes aura" ; Times: 2
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica" ; Times: 4
+
+
+End of report.

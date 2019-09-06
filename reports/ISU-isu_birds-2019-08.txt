@@ -1,0 +1,117 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 81
+Number of records retrieved in searches: 218
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 48
+	Country: Denmark ; Times: 4
+	Country: Finland ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Peru ; Times: 14
+	Country: Kenya ; Times: 3
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-19 ; Times: 5
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-17 ; Times: 3
+	Date: 2019-08-16 ; Times: 3
+	Date: 2019-08-15 ; Times: 14
+	Date: 2019-08-14 ; Times: 14
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 6
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-10 ; Times: 2
+	Date: 2019-08-08 ; Times: 3
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-30 ; Times: 14
+	Date: 2019-08-20 ; Times: 2
+	Date: 2019-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "pavo muticus" ; Times: 1
+	Query: "Chlidonias leucopterus" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "Dendrocygna viduata" ; Times: 1
+	Query: "Mycteria americana" ; Times: 3
+	Query: "Oporornis agilis" ; Times: 1
+	Query: "Plegadis falcinellus" ; Times: 1
+	Query: "Calidris canutus" ; Times: 2
+	Query: "Lonchura oryzivora" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 2
+	Query: "Tockus erythrorhynchus" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "Jabiru mycteria" ; Times: 1
+	Query: "county:&#34;kendall&#34; stateprovince:&#34;illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 7
+	Query: "Cairina moschata" ; Times: 1
+	Query: "specificepithet:muticus genus:Pavo" ; Times: 2
+	Query: "class:aves stateprovince:&#34;portuguesa&#34; country:&#34;venezuela&#34;" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 11
+	Query: "vntype:specimen family:Rallidae (frozen tissue) hastissue:1" ; Times: 1
+	Query: "Venezuela guarico vntype:specimen class:Aves" ; Times: 1
+	Query: "genus:Lagopus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 3
+	Query: "Venezuela Portuguesa vntype:specimen class:Aves" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "Haematopus palliatus" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 14
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Brachyramphus" ; Times: 2
+	Query: "Chlorophanes spiza" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Numida meleagris" ; Times: 3
+	Query: "Coccyzus americanus americanus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1034 download events in this period)
+Total number of records downloaded: 137
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Venezuela ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-24 ; Times: 3
+	Date: 2019-08-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "pavo muticus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;guarico&#34; country:&#34;venezuela&#34;" ; Times: 2
+	Query: "vntype:specimen family:Rallidae hastissue:1" ; Times: 1
+	Query: "Venezuela guarico vntype:specimen class:Aves" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "Venezuela Portuguesa vntype:specimen class:Aves" ; Times: 1
+	Query: "(passer domesticus) year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "class:aves stateprovince:&#34;portuguesa&#34; country:&#34;venezuela&#34;" ; Times: 1
+	Query: "specificepithet:virescens genus:Empidonax" ; Times: 1
+
+
+End of report.

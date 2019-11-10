@@ -1,0 +1,61 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 247
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 69
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 5
+	Date: 2019-09-06 ; Times: 52
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Aphelocoma coerulescens" ; Times: 12
+	Query: "Ramphocelus dimidiatus" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 8
+	Query: "Coccyzus americanus" ; Times: 15
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "erythrocephalus hastissue:1" ; Times: 1
+	Query: "genus:Zosterops continent:North America" ; Times: 1
+	Query: "Calidris canutus" ; Times: 5
+	Query: "Coccyzus americanus americanus" ; Times: 27
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1073 download events in this period)
+Total number of records downloaded: 64
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "Junco hyemalis month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+
+
+End of report.

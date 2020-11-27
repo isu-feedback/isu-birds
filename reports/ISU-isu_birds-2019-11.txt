@@ -1,0 +1,86 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 343
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 87
+	Country: Denmark ; Times: 1
+	Country: Netherlands ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-08 ; Times: 13
+	Date: 2019-11-09 ; Times: 9
+	Date: 2019-11-06 ; Times: 7
+	Date: 2019-11-07 ; Times: 27
+	Date: 2019-11-16 ; Times: 20
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Coccyzus americanus 1974" ; Times: 4
+	Query: "Coccyzus americanus 1975" ; Times: 4
+	Query: "Numida" ; Times: 1
+	Query: "Coccyzus americanus 1973" ; Times: 4
+	Query: "Aphelocoma coerulescens 2012" ; Times: 5
+	Query: "Aphelocoma coerulescens 2010" ; Times: 6
+	Query: "Aphelocoma coerulescens 2016" ; Times: 4
+	Query: "numida meleagris" ; Times: 1
+	Query: "genus:cistothorus hastissue:1" ; Times: 1
+	Query: "Brachyramphus marmoratus 2016" ; Times: 4
+	Query: "Brachyramphus marmoratus 2010" ; Times: 5
+	Query: "Brachyramphus marmoratus 1973" ; Times: 5
+	Query: "Brachyramphus marmoratus 2012" ; Times: 5
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "Mycteria americana 2012" ; Times: 4
+	Query: "gbifdatasetid:fcba1f2e-c8b8-491f-8b5f-62fae3157cc7" ; Times: 1
+	Query: "Mycteria americana 2010" ; Times: 4
+	Query: "Charadrius melodus 2012" ; Times: 4
+	Query: "Charadrius melodus 2010" ; Times: 4
+	Query: "Charadrius melodus 2016" ; Times: 4
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "catalognumber:942" ; Times: 1
+	Query: "Coccyzus americanus 2012" ; Times: 4
+	Query: "Coccyzus americanus 2010" ; Times: 4
+	Query: "Coccyzus americanus 2011" ; Times: 4
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1367 download events in this period)
+Total number of records downloaded: 168
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:georgiana genus:Melospiza year &lt;= 1930" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Tamil" ; Times: 1
+
+
+End of report.

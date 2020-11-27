@@ -1,0 +1,94 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 134
+Number of records retrieved in searches: 399
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 129
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 2
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-07 ; Times: 46
+	Date: 2020-04-21 ; Times: 44
+	Date: 2020-04-03 ; Times: 19
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-14 ; Times: 9
+	Date: 2020-04-08 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 10
+	Query: "Cypsiurus parvus" ; Times: 3
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "Amaurornis flavirostra" ; Times: 2
+	Query: "Ortalis vetula" ; Times: 3
+	Query: "carroll county mississippi" ; Times: 1
+	Query: "Alcedo atthis" ; Times: 4
+	Query: "Erithacus rubecula" ; Times: 4
+	Query: "Pycnonotus jocosus" ; Times: 4
+	Query: "Corvus cryptoleucus" ; Times: 9
+	Query: "Aix galericulata" ; Times: 2
+	Query: "Anas strepera" ; Times: 13
+	Query: "Brachyramphus marmoratus" ; Times: 6
+	Query: "Cairina moschata" ; Times: 8
+	Query: "Chrysolophus amherstiae" ; Times: 3
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "Aythya fuligula" ; Times: 6
+	Query: "Coturnix japonica" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "Puffinus gravis" ; Times: 3
+	Query: "Spheniscus humboldti" ; Times: 4
+	Query: "Numenius phaeopus" ; Times: 4
+	Query: "Buteo regalis" ; Times: 4
+	Query: "Pavo muticus" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 4
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "Anser albifrons" ; Times: 10
+	Query: "Alectoris rufa" ; Times: 6
+	Query: "Chlorophanes spiza" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1171 download events in this period)
+Total number of records downloaded: 699
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 3
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Burhinus capensis" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+
+
+End of report.

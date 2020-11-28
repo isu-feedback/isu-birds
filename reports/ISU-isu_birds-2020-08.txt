@@ -1,0 +1,71 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 65
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: United Kingdom ; Times: 9
+	Country: Portugal ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-07 ; Times: 2
+	Date: 2020-08-21 ; Times: 9
+	Date: 2020-08-10 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "lincoln park zoo" ; Times: 1
+	Query: "mappable:1 scientificname:Padda oryzivora" ; Times: 1
+	Query: "Aix sponsa 100" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "mappable:1 scientificname:Cairina moschata" ; Times: 1
+	Query: "mappable:1 scientificname:Aix galericulata" ; Times: 1
+	Query: "mappable:1 scientificname:Paroaria coronata" ; Times: 1
+	Query: "mappable:1 scientificname:Francolinus francolinus" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "mappable:1 scientificname:Pycnonotus jocosus" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Chrysolophus amherstiae" ; Times: 1
+	Query: "mappable:1 scientificname:Aratinga pertinax" ; Times: 1
+	Query: "mappable:1 scientificname:Elanoides forficatus" ; Times: 1
+	Query: "mappable:1 scientificname:Actophilornis africanus" ; Times: 1
+	Query: "mappable:1 scientificname:Coturnix japonica" ; Times: 1
+	Query: "mappable:1 scientificname:Numida meleagris" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "mappable:1 scientificname:Anas erythrorhyncha" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "mappable:1 scientificname:Vanellus armatus" ; Times: 1
+	Query: "mappable:1 scientificname:Balearica pavonina" ; Times: 1
+	Query: "mappable:1 scientificname:Chrysolophus amherstiae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 756 download events in this period)
+Total number of records downloaded: 1174
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-31 ; Times: 2
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 2000" ; Times: 1
+	Query: "family:alcedinidae hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.

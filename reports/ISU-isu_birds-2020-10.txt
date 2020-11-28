@@ -1,0 +1,79 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 319
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 22
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 9
+	Country: Austria ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-19 ; Times: 1
+	Date: 2020-10-25 ; Times: 1
+	Date: 2020-10-01 ; Times: 1
+	Date: 2020-10-13 ; Times: 32
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "Erithacus rubecula" ; Times: 1
+	Query: "mappable:1 scientificname:Erithacus rubecula" ; Times: 1
+	Query: "Cercotrichas paena basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Haematopus palliatus" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "specificepithet:caerulescens genus:Setophaga class:Aves hastissue:1" ; Times: 2
+	Query: "Brachyramphus marmoratus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "scientificname:Ortalis vetula" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer locality:lexington" ; Times: 1
+	Query: "scientificname:Corvus albus" ; Times: 3
+	Query: "scientificname:Aix sponsa" ; Times: 24
+	Query: "gbifdatasetid:fcba1f2e-c8b8-491f-8b5f-62fae3157cc7" ; Times: 1
+	Query: "institutioncode:isu" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1521 download events in this period)
+Total number of records downloaded: 53
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 5
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "vntype:specimen order:Bucerotiformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:lewis genus:melanerpes country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Bucerotidae" ; Times: 1
+	Query: "genus:myrmecocichla" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+
+
+End of report.

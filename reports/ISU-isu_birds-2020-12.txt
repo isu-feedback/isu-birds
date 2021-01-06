@@ -1,0 +1,70 @@
+Report for Institution Code ISU, Resource isu_birds
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 77
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 10
+	Country: Unknown ; Times: 16
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-11 ; Times: 13
+	Date: 2020-12-04 ; Times: 7
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "mappable:1 scientificname:Dendrocygna viduata" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "mappable:1 scientificname:Nyctanassa violacea" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "catharus minimus hastissue:1" ; Times: 4
+	Query: "mappable:1 scientificname:Cairina moschata" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "mappable:1 scientificname:Arenaria interpres" ; Times: 2
+	Query: "mappable:1 scientificname:Elanoides forficatus" ; Times: 1
+	Query: "mappable:1 scientificname:Mycteria americana" ; Times: 1
+	Query: "mappable:1 scientificname:Jabiru mycteria" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "Puffinus gravis" ; Times: 1
+	Query: "mappable:1 scientificname:Cyanerpes cyaneus" ; Times: 1
+	Query: "mappable:1 scientificname:Haematopus palliatus" ; Times: 1
+	Query: "mappable:1 scientificname:Anhinga anhinga" ; Times: 2
+	Query: "mappable:1 scientificname:Athene cunicularia" ; Times: 2
+	Query: "Anser albifrons" ; Times: 1
+	Query: "mappable:1 scientificname:Chlorophanes spiza" ; Times: 1
+	Query: "mappable:1 scientificname:Ixobrychus exilis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 705 download events in this period)
+Total number of records downloaded: 278
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+
+
+End of report.
